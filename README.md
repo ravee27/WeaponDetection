@@ -1,6 +1,6 @@
 ## Weapon Detection (YOLO)
 
-Production-ready CLI to run a trained YOLO model on images, videos, or a live webcam and save annotated outputs. Default confidence threshold is 0.4.
+Production-ready CLI to run a trained YOLO model on images, videos, or a live webcam and save annotated outputs. Default confidence threshold is 0.6.
 
 ### Setup
 
