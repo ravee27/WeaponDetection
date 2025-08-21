@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+gun_venv
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data/outputs
+runs/
+outputs/
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# Model weights (keep out of repo)
+# WeaponDetection/model/*.pt
+# *.pt
